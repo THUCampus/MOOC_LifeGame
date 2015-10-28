@@ -62,7 +62,7 @@ LifeGame homework of [Software Engineering MOOC](http://www.xuetangx.com/courses
 
 ### 作业提交
 
-1. 请用你的Github账号以仓库https://github.com/ThssSE/MOOC_LifeGame为基础Fork一个你的新仓库，将新仓库clone到本机，并以homework1_xiaotu分支为基础创建新分支homework2。
+1. 请用你的Github账号以仓库 https://github.com/ThssSE/MOOC_LifeGame 为基础Fork一个你的新仓库，将新仓库clone到本机，并以homework1_xiaotu分支为基础创建新分支homework2。
 2. 在homework2分支改动game_map.py文件，使之不出现bug同时满足以上新规则。
 3. 将改动后的game_map.py提交到版本库并push至远端版本库。
 4. 在学堂在线提交你的Github用户名和版本库名，比如ThssSE和MOOC_LifeGame。
