@@ -54,7 +54,7 @@ SetAttributes[update, Listable];
 Dynamic[ArrayPlot[
 Checkboard =
 update[Checkboard,
-Plus Map[
+Plus @@Map[
 RotateRight[Checkboard, #] &, {{-1, -1}, {-1, 0}, {-1,1}, {0, -1}, {0, 1}, {1, -1}, {1, 0}, {1, 1}}]]]]
 
 
